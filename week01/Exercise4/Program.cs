@@ -71,7 +71,6 @@ class Program
         {
             Console.WriteLine("No positive numbers were entered.");
         }
-
         // Stretch Challenge: Sort the list and display it
         numbers.Sort();
         Console.WriteLine("The sorted list is:");
